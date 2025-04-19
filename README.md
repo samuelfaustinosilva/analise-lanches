@@ -7,6 +7,6 @@ Projeto voltado para análise de dados de faturamento de lanches em um restauran
 Utilizado Python 3 e Jupyter Notebook. Com a aplicação das bibliotecas: pandas, numpy, matplotlib e seaborn. 
 
 ## Como utilizar
-Clone o repositório https://github.com/samuelfaustinosilva/analise-lanches.git
-Abra o arquivo .ipynb no Jupyter Notebook ou rode o .py com Python 3
+- Clone o repositório https://github.com/samuelfaustinosilva/analise-lanches.git <br>
+- Abra o arquivo .ipynb no Jupyter Notebook ou rode o .py com Python 3
 
